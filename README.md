@@ -1,5 +1,13 @@
 # 19.09450 - INTELIGENCIA ARTIFICIAL UNJBG - 2022
-Repositorio del Curso de Inteligencia Artificial (19.09450) de la Escuela Profesional de Ingeniería en Informática y Sistemas de la Universidad Nacional Jorge Basadre Grohmann - Tacna - Perú a cargo del MSc.(c) Israel N. Chaparro-Cruz
+Repositorio del Curso de Inteligencia Artificial (19.09450) de la
+
+Escuela Profesional de Ingeniería en Informática y Sistemas de la
+
+Universidad Nacional Jorge Basadre Grohmann - Tacna - Perú a cargo del
+
+MSc.(c) Israel N. Chaparro-Cruz
+
+[SYLLABUS](https://github.com/ichaparroc/IA-UNJBG-2022/blob/main/syllabus.pdf)
 
 ## Semana 1: Introducción a la Inteligencia Artificial
 Teoría: [Diapositivas](https://github.com/ichaparroc/IA-UNJBG-2022/blob/main/0.Introduccion.pdf)
