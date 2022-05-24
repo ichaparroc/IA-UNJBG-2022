@@ -19,7 +19,7 @@ Práctica/Laboratorio:
 Teoría: [Diapositivas](https://github.com/ichaparroc/IA-UNJBG-2022/blob/main/2.Entorno%20Tensores%20y%20CUDA.pdf)
 
 
-Práctica/Laboratorio: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ichaparroc/IA-UNJBG-2022/blob/main/2.Entorno%20Tensores%20y%20CUDA.ipynb) [![Ver](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ichaparroc/IA-UNJBG-2022/blob/main/2.Entorno%20Tensores%20y%20CUDA.ipynb?flush_cache=true)
+Práctica/Laboratorio: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ichaparroc/IA-UNJBG-2022/blob/main/2.Entorno_Tensores_y_CUDA.ipynb) [![Ver](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ichaparroc/IA-UNJBG-2022/blob/main/2.Entorno_Tensores_y_CUDA.ipynb?flush_cache=true)
 
 ## Semana 3: Modelos Lineales y Autodiferenciación
 
