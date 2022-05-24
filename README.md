@@ -19,7 +19,43 @@ Práctica/Laboratorio:
 Teoría: [Diapositivas](https://github.com/ichaparroc/IA-UNJBG-2022/blob/main/2.Entorno%20Tensores%20y%20CUDA.pdf)
 
 
-Práctica/Laboratorio: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ichaparroc/IA-UNJBG-2022/blob/777d55f0ed035af3f3b738524aa1b3f833e99056/2.Entorno%20Tensores%20y%20CUDA.ipynb) [![Ver](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ichaparroc/IA-UNJBG-2022/blob/777d55f0ed035af3f3b738524aa1b3f833e99056/2.Entorno%20Tensores%20y%20CUDA.ipynb?flush_cache=true)
+Práctica/Laboratorio: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ichaparroc/IA-UNJBG-2022/blob/main/2.Entorno%20Tensores%20y%20CUDA.ipynb) [![Ver](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ichaparroc/IA-UNJBG-2022/blob/main/2.Entorno%20Tensores%20y%20CUDA.ipynb?flush_cache=true)
+
+## Semana 3: Modelos Lineales y Autodiferenciación
+
+Teoría: [Diapositivas](https://github.com/ichaparroc/IA-UNJBG-2022/blob/main/2.Entorno%20Tensores%20y%20CUDA.pdf)
+
+Prácticas/Laboratorio: 
+
+## Semana 4: Multi-layer Perceptrons (MLPs), redes profundas y anchas.
+
+## Semana 5: Optimización
+
+## Semana 6: Regularización
+
+## Semana 7: Compartiendo parámetros Convnets y RNN
+
+## Semana 8: Evaluación Parcial 1
+
+## Semana 9: Convnets Modernas
+
+## Semana 10: RNNs Modernas
+
+## Semana 11: Modelos de atención y transformers
+
+## Semana 12: Modelos Generativos (VAEs y GANs)
+
+## Semana 13: Aprendizaje no supervisado
+
+## Semana 14: Ideas báscias de aprendizaje por refuerzo
+
+## Semana 15: Aprendizaje por refuerzo para juegos
+
+## Semana 16: Aprendizaje Conínuo y Causalidad
+
+## Semana 17: Evaluación Parcial 2
+
+## Semana 18: Examen Sustitutorio
 
 ---
 
