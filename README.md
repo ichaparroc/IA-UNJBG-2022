@@ -26,7 +26,7 @@ Práctica/Laboratorio: [![Colab](https://colab.research.google.com/assets/colab-
 Teoría: [Diapositivas](https://github.com/ichaparroc/IA-UNJBG-2022/blob/main/2.Entorno%20Tensores%20y%20CUDA.pdf)
 
 Prácticas/Laboratorio: 
-1: (https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ichaparroc/IA-UNJBG-2022/blob/facf882b46af358965e6d58326e138b913a0e331/3.1.Modelos%20lineales%20y%20autodiferenciacion.ipynb) [![Ver](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ichaparroc/IA-UNJBG-2022/blob/facf882b46af358965e6d58326e138b913a0e331/3.1.Modelos%20lineales%20y%20autodiferenciacion.ipynb?flush_cache=true)
+1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ichaparroc/IA-UNJBG-2022/blob/facf882b46af358965e6d58326e138b913a0e331/3.1.Modelos%20lineales%20y%20autodiferenciacion.ipynb) [![Ver](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ichaparroc/IA-UNJBG-2022/blob/facf882b46af358965e6d58326e138b913a0e331/3.1.Modelos%20lineales%20y%20autodiferenciacion.ipynb?flush_cache=true)
 2: 
 3: 
 
