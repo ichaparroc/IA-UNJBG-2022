@@ -28,7 +28,7 @@ Teoría: [Diapositivas](https://github.com/ichaparroc/IA-UNJBG-2022/blob/main/3.
 Prácticas/Laboratorio: 
 1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ichaparroc/IA-UNJBG-2022/blob/facf882b46af358965e6d58326e138b913a0e331/3.1.Modelos%20lineales%20y%20autodiferenciacion.ipynb) [![Ver](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ichaparroc/IA-UNJBG-2022/blob/facf882b46af358965e6d58326e138b913a0e331/3.1.Modelos%20lineales%20y%20autodiferenciacion.ipynb?flush_cache=true)
 
-2: 
+2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ichaparroc/IA-UNJBG-2022/blob/66877fdc55172d72cade25d0c102976ca3403969/3.2.Modelos%20lineales%20y%20autodiferenciacion.ipynb) [![Ver](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ichaparroc/IA-UNJBG-2022/blob/66877fdc55172d72cade25d0c102976ca3403969/3.2.Modelos%20lineales%20y%20autodiferenciacion.ipynb?flush_cache=true)
 
 ## Semana 4: Multi-layer Perceptrons (MLPs), redes profundas y anchas.
 
